@@ -17,7 +17,7 @@
 <h3 align="center">Simple Teamable-App</h3>
 
   <p align="center">   
-    <a href="">View Live Demo</a>
+    <a href="https://vb-simple-teamable-app.netlify.app/">View Live Demo</a>
   </p>
 </div>
 
@@ -48,11 +48,11 @@ Here's a Screen-Shot of my project and I learnt Most of my usefull Future of Jav
 
 ## Live Project
 
-This project is presently deployed in **Vercel Service**.
+This project is presently deployed in **Netlify Service**.
 
 
 
-[Live Project URL]()
+[Live Project URL](https://vb-simple-teamable-app.netlify.app/)
 <br>
 
 
@@ -80,7 +80,7 @@ For this project i took around `15 to 20 minutes` to complete it.
 - **Email 📧:** [vanditbera@gmail.com](mailto:vanditbera@gmail.com)
 - **Blog 📝:** [blogs.Vandit2510.in](https://vandit-bera.hashnode.dev/)
 
-Project Link: [GitHub]()
+Project Link: [GitHub](https://github.com/vandit-bera/Simple-Teamable-App)
 
 
 <!-- Linkedin -->
